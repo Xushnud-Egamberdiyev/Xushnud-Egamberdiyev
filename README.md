@@ -34,9 +34,3 @@
 <a href="https://discord.gg/isxoqovxasanboy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isxoqovxasanboy1" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Support:</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isxoqovxasanboy&label=Profile%20views&color=0e75b6&style=flat" alt="isxoqovxasanboy" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isxoqovxasanboy&show_icons=true&locale=en" alt="isxoqovxasanboy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isxoqovxasanboy&" alt="isxoqovxasanboy" /></p>
-
