@@ -1,7 +1,7 @@
 <!-- Type writer  -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+My+name+is+Hasanboy!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+My+name+is+Xushnud!;&center=true&size=30">
   </a>
 </h1>
 <!-- Snake Game -->
@@ -16,21 +16,19 @@
 
 - 🌱 I’m currently learning **C#,Aspi.Net and Vue.js**
 
-- 👨‍💻 All of my projects are available at [isxoqovxasanboy](https://github.com/isxoqovxasanboy)
+- 👨‍💻 All of my projects are available at [isxoqovxasanboy](https://github.com/egamberdiyevxushnud)
 
 - 💬 Ask me about **C#,Aspi.Net,C,python.**
 
-- 📫 How to reach me **isxoqovxasanboy1@gmail.com**
+- 📫 How to reach me **xushnudegamberdiyev0@gmail.com**
 
 - ⚡ Fun fact **I'm funny and i like conversation another peoples**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/user:21311610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21311610" height="30" width="40" /></a>
-<a href="https://instagram.com/ixlos_decor.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ixlos_decor.uz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/najot_izlab_kanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="najot_izlab_kanali" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/isxoqovxasanboy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isxoqovxasanboy1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/isxoqovxasanboy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="isxoqovxasanboy1" height="30" width="40" /></a>
-<a href="https://discord.gg/isxoqovxasanboy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="isxoqovxasanboy1" height="30" width="40" /></a>
+<a href="https://instagram.com/__egamberdiyevx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ixlos_decor.uz" height="30" width="40" /></a>
+<
+<a href="https://www.leetcode.com/xushnud06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isxoqovxasanboy1" height="30" width="40" /></a>
+
 </p>
 
