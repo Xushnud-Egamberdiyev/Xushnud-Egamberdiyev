@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **C#,Aspi.Net and Vue.js**
 
-- 👨‍💻 All of my projects are available at [Egamberdiyev_Xushnud](https://github.com/egamberdiyevxushnud)
+- 👨‍💻 All of my projects are available at [Egamberdiyev Xushnud](https://github.com/egamberdiyevxushnud)
 
 - 💬 Ask me about **C#,Aspi.Net,C,python.**
 
