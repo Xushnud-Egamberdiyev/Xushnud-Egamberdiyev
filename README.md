@@ -30,4 +30,10 @@
 <a href="https://www.leetcode.com/xushnud06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="isxoqovxasanboy1" height="30" width="40" /></a>
 
 </p>
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/OzodbekOlimjonov1411/count.svg?"  />
+</div>
+
+###
