@@ -22,7 +22,6 @@
 
 - 📫 How to reach me **xushnudegamberdiyev0@gmail.com**
 
-- ⚡ Fun fact **I'm funny and i like conversation another peoples**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
