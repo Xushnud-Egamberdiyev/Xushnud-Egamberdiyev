@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/OzodbekOlimjonov1411/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/egamberdiyevxushnud/count.svg?"  />
 </div>
 
 ###
